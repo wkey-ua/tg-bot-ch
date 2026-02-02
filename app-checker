@@ -1,0 +1,5 @@
+app-checker/
+  main.py
+  apps.txt
+  requirements.txt
+  .github/workflows/check.yml
